@@ -7,7 +7,7 @@ I'm passionate about competitive programming and constantly striving to improve 
 ---
 ## 📊 Problem Count
 
-![Solved Problems](https://img.shields.io/badge/Solved_Problems-<count>-brightgreen)
+![Solved Problems](https://img.shields.io/badge/Solved_Problems-0-brightgreen)
 
 ## 📌 My Competitive Programming Template
 
