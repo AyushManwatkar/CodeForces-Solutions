@@ -7,7 +7,7 @@ I'm passionate about competitive programming and constantly striving to improve 
 ---
 ## 📊 Problem Count
 
-![Solved Problems](https://img.shields.io/badge/Solved_Problems-0-brightgreen)
+![Problems Solved](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AyushManwatkar/CodeForces-Solutions/main/problem_count.json)
 
 ## 📌 My Competitive Programming Template
 
