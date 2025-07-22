@@ -5,6 +5,9 @@ This repository contains solutions to problems I've solved on [Codeforces](https
 I'm passionate about competitive programming and constantly striving to improve my skills through contests and practice.
 
 ---
+## 📊 Problem Count
+
+![Solved Problems](https://img.shields.io/badge/Solved_Problems-<count>-brightgreen)
 
 ## 📌 My Competitive Programming Template
 
