@@ -5,9 +5,6 @@ This repository contains solutions to problems I've solved on [Codeforces](https
 I'm passionate about competitive programming and constantly striving to improve my skills through contests and practice.
 
 ---
-## 📊 Problem Count
-
-![Problems Solved](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AyushManwatkar/CodeForces-Solutions/main/problem_count.json)
 
 ## 📌 My Competitive Programming Template
 
