@@ -3,7 +3,7 @@ name: Update Solved Problem Count
 on:
   push:
     paths:
-      - 'solutions/*.cpp'
+      - '*.cpp'
   schedule:
     - cron: '0 0 * * *'  # Runs daily
   workflow_dispatch:
